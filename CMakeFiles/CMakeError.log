@@ -1,0 +1,683 @@
+Determining if the function _chmod exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_754fb/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_754fb.dir/build.make CMakeFiles/cmTC_754fb.dir/build
+Building C object CMakeFiles/cmTC_754fb.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_chmod -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_754fb.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_754fb
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_754fb.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_chmod -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_754fb.dir/CheckFunctionExists.c.o  -o cmTC_754fb 
+Undefined symbols for architecture x86_64:
+  "__chmod", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_754fb] Error 1
+make: *** [cmTC_754fb/fast] Error 2
+
+
+
+Determining if the function _close exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_93770/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_93770.dir/build.make CMakeFiles/cmTC_93770.dir/build
+Building C object CMakeFiles/cmTC_93770.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_close -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_93770.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_93770
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_93770.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_close -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_93770.dir/CheckFunctionExists.c.o  -o cmTC_93770 
+Undefined symbols for architecture x86_64:
+  "__close", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_93770] Error 1
+make: *** [cmTC_93770/fast] Error 2
+
+
+
+Determining if the function _dup exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ea6f7/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ea6f7.dir/build.make CMakeFiles/cmTC_ea6f7.dir/build
+Building C object CMakeFiles/cmTC_ea6f7.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_dup -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_ea6f7.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ea6f7
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ea6f7.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_dup -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ea6f7.dir/CheckFunctionExists.c.o  -o cmTC_ea6f7 
+Undefined symbols for architecture x86_64:
+  "__dup", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_ea6f7] Error 1
+make: *** [cmTC_ea6f7/fast] Error 2
+
+
+
+Determining if the function _fdopen exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6ee56/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_6ee56.dir/build.make CMakeFiles/cmTC_6ee56.dir/build
+Building C object CMakeFiles/cmTC_6ee56.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_fdopen -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_6ee56.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_6ee56
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6ee56.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_fdopen -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6ee56.dir/CheckFunctionExists.c.o  -o cmTC_6ee56 
+Undefined symbols for architecture x86_64:
+  "__fdopen", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_6ee56] Error 1
+make: *** [cmTC_6ee56/fast] Error 2
+
+
+
+Determining if the function _fileno exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2a3b0/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_2a3b0.dir/build.make CMakeFiles/cmTC_2a3b0.dir/build
+Building C object CMakeFiles/cmTC_2a3b0.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_fileno -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_2a3b0.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_2a3b0
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a3b0.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_fileno -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2a3b0.dir/CheckFunctionExists.c.o  -o cmTC_2a3b0 
+Undefined symbols for architecture x86_64:
+  "__fileno", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_2a3b0] Error 1
+make: *** [cmTC_2a3b0/fast] Error 2
+
+
+
+Determining if the function _open exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_89ef2/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_89ef2.dir/build.make CMakeFiles/cmTC_89ef2.dir/build
+Building C object CMakeFiles/cmTC_89ef2.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_open -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_89ef2.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_89ef2
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_89ef2.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_open -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_89ef2.dir/CheckFunctionExists.c.o  -o cmTC_89ef2 
+Undefined symbols for architecture x86_64:
+  "__open", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_89ef2] Error 1
+make: *** [cmTC_89ef2/fast] Error 2
+
+
+
+Determining if the function _setmode exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eda99/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_eda99.dir/build.make CMakeFiles/cmTC_eda99.dir/build
+Building C object CMakeFiles/cmTC_eda99.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_setmode -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_eda99.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_eda99
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eda99.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_setmode -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_eda99.dir/CheckFunctionExists.c.o  -o cmTC_eda99 
+Undefined symbols for architecture x86_64:
+  "__setmode", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_eda99] Error 1
+make: *** [cmTC_eda99/fast] Error 2
+
+
+
+Determining if the function _snprintf exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2c727/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_2c727.dir/build.make CMakeFiles/cmTC_2c727.dir/build
+Building C object CMakeFiles/cmTC_2c727.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_snprintf -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_2c727.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_2c727
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c727.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_snprintf -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2c727.dir/CheckFunctionExists.c.o  -o cmTC_2c727 
+Undefined symbols for architecture x86_64:
+  "__snprintf", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_2c727] Error 1
+make: *** [cmTC_2c727/fast] Error 2
+
+
+
+Determining if the function _strdup exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3ba6e/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_3ba6e.dir/build.make CMakeFiles/cmTC_3ba6e.dir/build
+Building C object CMakeFiles/cmTC_3ba6e.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_strdup -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_3ba6e.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_3ba6e
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3ba6e.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_strdup -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_3ba6e.dir/CheckFunctionExists.c.o  -o cmTC_3ba6e 
+Undefined symbols for architecture x86_64:
+  "__strdup", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_3ba6e] Error 1
+make: *** [cmTC_3ba6e/fast] Error 2
+
+
+
+Determining if the function _stricmp exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_11108/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_11108.dir/build.make CMakeFiles/cmTC_11108.dir/build
+Building C object CMakeFiles/cmTC_11108.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_stricmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_11108.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_11108
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_11108.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_stricmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_11108.dir/CheckFunctionExists.c.o  -o cmTC_11108 
+Undefined symbols for architecture x86_64:
+  "__stricmp", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_11108] Error 1
+make: *** [cmTC_11108/fast] Error 2
+
+
+
+Determining if the function _strtoi64 exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_62fbd/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_62fbd.dir/build.make CMakeFiles/cmTC_62fbd.dir/build
+Building C object CMakeFiles/cmTC_62fbd.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_strtoi64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_62fbd.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_62fbd
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62fbd.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_strtoi64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_62fbd.dir/CheckFunctionExists.c.o  -o cmTC_62fbd 
+Undefined symbols for architecture x86_64:
+  "__strtoi64", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_62fbd] Error 1
+make: *** [cmTC_62fbd/fast] Error 2
+
+
+
+Determining if the function _strtoui64 exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b3957/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b3957.dir/build.make CMakeFiles/cmTC_b3957.dir/build
+Building C object CMakeFiles/cmTC_b3957.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_strtoui64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_b3957.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_b3957
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b3957.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_strtoui64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b3957.dir/CheckFunctionExists.c.o  -o cmTC_b3957 
+Undefined symbols for architecture x86_64:
+  "__strtoui64", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_b3957] Error 1
+make: *** [cmTC_b3957/fast] Error 2
+
+
+
+Determining if the function _umask exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ec3af/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ec3af.dir/build.make CMakeFiles/cmTC_ec3af.dir/build
+Building C object CMakeFiles/cmTC_ec3af.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_umask -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_ec3af.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ec3af
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ec3af.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_umask -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ec3af.dir/CheckFunctionExists.c.o  -o cmTC_ec3af 
+Undefined symbols for architecture x86_64:
+  "__umask", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_ec3af] Error 1
+make: *** [cmTC_ec3af/fast] Error 2
+
+
+
+Determining if the function _unlink exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_96f90/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_96f90.dir/build.make CMakeFiles/cmTC_96f90.dir/build
+Building C object CMakeFiles/cmTC_96f90.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_unlink -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_96f90.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_96f90
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_96f90.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_unlink -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_96f90.dir/CheckFunctionExists.c.o  -o cmTC_96f90 
+Undefined symbols for architecture x86_64:
+  "__unlink", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_96f90] Error 1
+make: *** [cmTC_96f90/fast] Error 2
+
+
+
+Determining if the function explict_bzero exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_06915/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_06915.dir/build.make CMakeFiles/cmTC_06915.dir/build
+Building C object CMakeFiles/cmTC_06915.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=explict_bzero -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_06915.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_06915
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06915.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=explict_bzero -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_06915.dir/CheckFunctionExists.c.o  -o cmTC_06915 
+Undefined symbols for architecture x86_64:
+  "_explict_bzero", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_06915] Error 1
+make: *** [cmTC_06915/fast] Error 2
+
+
+
+Determining if the function explicit_memset exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ff025/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ff025.dir/build.make CMakeFiles/cmTC_ff025.dir/build
+Building C object CMakeFiles/cmTC_ff025.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=explicit_memset -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_ff025.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ff025
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ff025.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=explicit_memset -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ff025.dir/CheckFunctionExists.c.o  -o cmTC_ff025 
+Undefined symbols for architecture x86_64:
+  "_explicit_memset", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_ff025] Error 1
+make: *** [cmTC_ff025/fast] Error 2
+
+
+
+Determining if the function stricmp exists failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a23a2/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_a23a2.dir/build.make CMakeFiles/cmTC_a23a2.dir/build
+Building C object CMakeFiles/cmTC_a23a2.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=stricmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_a23a2.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.16.5/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a23a2
+/usr/local/Cellar/cmake/3.16.5/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a23a2.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=stricmp -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_a23a2.dir/CheckFunctionExists.c.o  -o cmTC_a23a2 
+Undefined symbols for architecture x86_64:
+  "_stricmp", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_a23a2] Error 1
+make: *** [cmTC_a23a2/fast] Error 2
+
+
+
+Determining size of __int8 failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f1e8b/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_f1e8b.dir/build.make CMakeFiles/cmTC_f1e8b.dir/build
+Building C object CMakeFiles/cmTC_f1e8b.dir/__INT8_LIBZIP.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_f1e8b.dir/__INT8_LIBZIP.c.o   -c "/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c"
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:25:12: error: use of undeclared identifier '__int8'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int8))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:26:12: error: use of undeclared identifier '__int8'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int8))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:27:12: error: use of undeclared identifier '__int8'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int8))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:28:12: error: use of undeclared identifier '__int8'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int8))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:29:12: error: use of undeclared identifier '__int8'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int8))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_f1e8b.dir/__INT8_LIBZIP.c.o] Error 1
+make: *** [cmTC_f1e8b/fast] Error 2
+
+
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT8_LIBZIP.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__int8))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of __int16 failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_711af/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_711af.dir/build.make CMakeFiles/cmTC_711af.dir/build
+Building C object CMakeFiles/cmTC_711af.dir/__INT16_LIBZIP.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_711af.dir/__INT16_LIBZIP.c.o   -c "/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c"
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:25:12: error: use of undeclared identifier '__int16'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int16))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:26:12: error: use of undeclared identifier '__int16'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int16))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:27:12: error: use of undeclared identifier '__int16'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int16))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:28:12: error: use of undeclared identifier '__int16'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int16))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:29:12: error: use of undeclared identifier '__int16'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int16))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_711af.dir/__INT16_LIBZIP.c.o] Error 1
+make: *** [cmTC_711af/fast] Error 2
+
+
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT16_LIBZIP.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__int16))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of __int32 failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1d98d/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_1d98d.dir/build.make CMakeFiles/cmTC_1d98d.dir/build
+Building C object CMakeFiles/cmTC_1d98d.dir/__INT32_LIBZIP.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_1d98d.dir/__INT32_LIBZIP.c.o   -c "/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c"
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:25:12: error: use of undeclared identifier '__int32'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int32))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:26:12: error: use of undeclared identifier '__int32'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int32))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:27:12: error: use of undeclared identifier '__int32'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int32))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:28:12: error: use of undeclared identifier '__int32'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int32))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:29:12: error: use of undeclared identifier '__int32'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int32))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_1d98d.dir/__INT32_LIBZIP.c.o] Error 1
+make: *** [cmTC_1d98d/fast] Error 2
+
+
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT32_LIBZIP.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__int32))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of __int64 failed with the following output:
+Change Dir: /Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_27a12/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_27a12.dir/build.make CMakeFiles/cmTC_27a12.dir/build
+Building C object CMakeFiles/cmTC_27a12.dir/__INT64_LIBZIP.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -fPIE   -o CMakeFiles/cmTC_27a12.dir/__INT64_LIBZIP.c.o   -c "/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c"
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:25:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:26:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:27:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:28:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:29:12: error: use of undeclared identifier '__int64'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:23:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_27a12.dir/__INT64_LIBZIP.c.o] Error 1
+make: *** [cmTC_27a12/fast] Error 2
+
+
+/Users/haonanzhao/School/cs5100 Fundamental of AI/game project/tutorials/gym-retro/CMakeFiles/CheckTypeSize/__INT64_LIBZIP.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__int64))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+

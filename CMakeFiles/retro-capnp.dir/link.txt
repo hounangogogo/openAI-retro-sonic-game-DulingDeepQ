@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libretro-capnp.a  CMakeFiles/retro-capnp.dir/src/serialize.capnp.c++.o CMakeFiles/retro-capnp.dir/src/data-capnp.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libretro-capnp.a

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -O2 -g -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -bundle -Wl,-headerpad_max_install_names  -o libmalloc.so CMakeFiles/malloc.dir/malloc.c.o 
